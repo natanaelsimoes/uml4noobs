@@ -45,17 +45,26 @@ A princípio você precisa conhecer aquilo que deseja modelar:
 
 [+ Conteúdos gratuitos da comunidade He4rtDevs](https://github.com/he4rt/4noobs)
 
-## Contribuindo
+## Colaboradores ✨
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Este repositório está apenas começando. A intenção aqui é cobrir todos os diagramas da UML e adicionar exemplos práticos de uso que vão além do básico encontrado nas literaturas clássicas.
 
 [Pull Requests](https://github.com/natanaelsimoes/uml4noobs/pulls) são muito bem-vindos! :heart:
 
-## Colaboradores
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/natanaelsimoes"><img src="https://avatars.githubusercontent.com/u/1112479?v=4?s=100" width="100px;" alt="Natanael Simões"/><br /><sub><b>Natanael Simões</b></sub></a><br /><a href="#projectManagement-natanaelsimoes" title="Project Management">📆</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
