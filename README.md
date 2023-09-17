@@ -1,6 +1,6 @@
 # UML4Noobs
 
-[![header](./assets/header-4noobs.svg)](https://github.com/he4rt/4noobs)
+[![header](./recursos/header-4noobs.svg)](https://github.com/he4rt/4noobs)
 
 UML4Noobs faz parte do projeto [4noobs](https://github.com/he4rt/4noobs) da comunidade He4rt!
 
@@ -20,27 +20,28 @@ A princípio você precisa conhecer aquilo que deseja modelar:
 
 ## Sumário
 
-1. Linguagem de Modelagem Unificada (UML)
-   1. Por que modelar?
-   2. Quando modelar?
-   3. Ferramentas de modelagem
-   4. Visão geral dos diagramas UML
-2. Diagramas Comportamentais
-   1. Diagrama de Caso de Uso
-   2. Diagrama de Atividades
-   3. Diagrama de Sequência
-   4. Diagrama de Comunicação
-   5. Diagrama de Máquina de Estado
-   6. Diagrama de Visão Geral de Interação
-   7. Diagrama de Tempo
-3. Diagramas Estruturais
-   1. Diagrama de Classes
-   2. Diagrama de Componentes
-   3. Diagrama de Pacotes
-   4. Diagrama de Objetos
-   5. Diagrama de Implantação
-   6. Diagrama de Perfil
-   7. Diagrama de Estrutura Composta
+1. [Linguagem de Modelagem Unificada (UML)](/conteudo/1-linguagem-de-modelagem-unificada-uml/README.md)
+   1. [Por que modelar?](/conteudo/1-linguagem-de-modelagem-unificada-uml/1.1-por-que-modelar.md)
+   2. [Quando modelar?](/conteudo/1-linguagem-de-modelagem-unificada-uml/1.2-quando-modelar.md)
+   3. [Ferramentas de modelagem](/conteudo/1-linguagem-de-modelagem-unificada-uml/1.3-ferramentas-de-modelagem.md)
+   4. [Visão geral dos diagramas UML](/conteudo/1-linguagem-de-modelagem-unificada-uml/1.4-visal-geral-dos-diagramas-uml.md)
+2. [Diagramas Comportamentais](/conteudo/2-diagramas-comportamentais/README.md)
+   1. [Diagrama de Caso de Uso](/conteudo/2-diagramas-comportamentais/2.1-diagrama-de-caso-de-uso.md)
+   2. [Diagrama de Atividades](/conteudo/2-diagramas-comportamentais/2.2-diagrama-de-atividades.md)
+   3. [Diagrama de Sequência](/conteudo/2-diagramas-comportamentais/2.3-diagrama-de-sequencia.md)
+   4. [Diagrama de Comunicação](/conteudo/2-diagramas-comportamentais/2.4-diagrama-de-comunicacao.md)
+   5. [Diagrama de Máquina de Estado](/conteudo/2-diagramas-comportamentais/2.5-diagrama-de-maquina-de-estado.md)
+   6. [Diagrama de Visão Geral de Interação](/conteudo/2-diagramas-comportamentais/2.6-diagrama-de-visao-geral-de-interacao.md)
+   7. [Diagrama de Tempo](/conteudo/2-diagramas-comportamentais/2.7-diagrama-de-tempo.md)
+3. [Diagramas Estruturais](/conteudo/3-diagramas-estruturais/README.md)
+   1. [Diagrama de Classes](/conteudo/3-diagramas-estruturais/3.1-diagrama-de-classes.md)
+   2. [Diagrama de Componentes](/conteudo/3-diagramas-estruturais/3.2-diagrama-de-componentes.md)
+   3. [Diagrama de Pacotes](/conteudo/3-diagramas-estruturais/3.3-diagrama-de-pacotes.md)
+   4. [Diagrama de Objetos](/conteudo/3-diagramas-estruturais/3.4-diagrama-de-objetos.md)
+   5. [Diagrama de Implantação](/conteudo/3-diagramas-estruturais/3.5-diagrama-de-implantacao.md)
+   6. [Diagrama de Perfil](/conteudo/3-diagramas-estruturais/3.6-diagrama-de-perfil.md)
+   7. [Diagrama de Estrutura Composta](/conteudo/3-diagramas-estruturais/3.7-diagrama-de-estrutura-composta.md)
+4. [Exemplos práticos](/conteudo/4-exemplos-praticos/README.md)
 
 [+ Conteúdos gratuitos da comunidade He4rtDevs](https://github.com/he4rt/4noobs)
 
@@ -63,4 +64,4 @@ Este repositório está apenas começando. A intenção aqui é cobrir todos os 
 
 ---
 
-[![header](./assets/footer-4noobs.svg)](https://github.com/he4rt/4noobs)
+[![header](./recursos/footer-4noobs.svg)](https://github.com/he4rt/4noobs)
